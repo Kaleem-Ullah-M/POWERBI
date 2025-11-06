@@ -1,1 +1,1 @@
-# This Repo contains the Following PowerBi Projects.
+# This Repo contains the PowerBi Projects.
